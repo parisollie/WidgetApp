@@ -16,4 +16,4 @@ This application contains the following knowledge:
   
 ### The application looks like this:
 
-![Uploading Captura de Pantalla 2024-07-04 a la(s) 0.46.00.png…]()
+![Captura de Pantalla 2024-07-04 a la(s) 0 46 00](https://github.com/user-attachments/assets/4a73ad9a-ad63-40d6-bea7-1b8f1a0188db)
